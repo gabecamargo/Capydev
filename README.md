@@ -1,4 +1,7 @@
 # Capdev
+<div align="center">
+<img src="./readme_assets/logo.jpg" width="500">
+</div>
 
 ### Prazos
 
